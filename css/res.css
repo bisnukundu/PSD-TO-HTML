@@ -206,6 +206,9 @@
             float:left;
 			margin-top:50px;
         }
+		.logo{
+			width:50%;
+		}
  .logo img{
 	 margin-right:20px;
 	 width:100%;
@@ -221,9 +224,11 @@
   .os_text{
 	  font-size:20px;
   }
+  .logo{
+	  width:65%;
+  }
   
 }
-
 
 
 
